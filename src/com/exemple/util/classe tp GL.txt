@@ -1,0 +1,7 @@
+package com.exemple.util;
+
+public class Classe {
+    public static void afficher() {
+        System.out.println("Je suis la classe utilitaire !");
+    }
+}
